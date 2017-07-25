@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
         textWall.post(new Runnable(){
             @Override
             public void run() {
-
                 List<TextItem> textItems = new ArrayList<TextItem>();
                 for (int i = 0; i < 30; i++) {
                     TextItem item = new TextItem();

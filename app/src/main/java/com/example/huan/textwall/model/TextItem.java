@@ -1,7 +1,7 @@
 package com.example.huan.textwall.model;
 
 /**
- * Created by huan on 2017/7/21.
+ * Created by squirrelhuan on 2017/7/21.
  */
 
 /**
